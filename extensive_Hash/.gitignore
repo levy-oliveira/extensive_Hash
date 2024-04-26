@@ -1,0 +1,45 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
+/.idea/aws.xml
+/.idea/discord.xml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/sonarlint/securityhotspotstore/index.pb
+/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
+/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+/.idea/misc.xml
+/.idea/modules.xml
+/sgbd-1.iml
+/.idea/vcs.xml
+/.idea/sonarlint/issuestore/7/8/78e135345d5730605c540a63911aa2e1f080ab12
+/.idea/sonarlint/securityhotspotstore/7/8/78e135345d5730605c540a63911aa2e1f080ab12
+/.idea/sonarlint/
+/.idea/uiDesigner.xml
